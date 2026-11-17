@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Góc của Anh Nguyễn</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="navbar">
+    <a href="index.html" class="logo">ANH NGUYỄN ✦</a>
+
+    <nav>
+        <a class="active" href="index.html">Trang chủ</a>
+        <a href="music-art.html">Âm nhạc & Tranh vẽ ↗</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="hero-text">
+        <p class="eyebrow">A LITTLE CORNER OF MY WORLD</p>
+
+        <h1>Góc của<br>
+            <em>Anh Nguyễn</em>
+        </h1>
+
+        <p class="intro">
+            Một góc nhỏ lưu giữ những điều mình yêu thích:
+            âm nhạc, phim ảnh và những nét vẽ còn dang dở.
+        </p>
+
+        <a class="button" href="music-art.html">
+            Khám phá thế giới của mình ↗
+        </a>
+
+        <p class="welcome">✳ Chào mừng bạn ghé thăm!</p>
+    </div>
+
+    <div class="hero-image">
+        <img src="images/jojo-cover.jpg" alt="JoJo fanart">
+        <span class="sticker">MY<br>UNIVERSE</span>
+    </div>
+</section>
+
+<section class="about">
+    <p class="eyebrow">GET TO KNOW ME</p>
+    <h2>Một chút về mình</h2>
+
+    <div class="cards">
+
+        <div class="card dark-card">
+            <span class="number">01 / PROFILE</span>
+
+            <h3>Nguyễn Quỳnh Anh</h3>
+            <p>(Anh Nguyễn)</p>
+
+            <div class="info">
+                <p>Ngày sinh <strong>20/04/2009</strong></p>
+                <p>Lớp <strong>12A4</strong></p>
+            </div>
+        </div>
+
+        <div class="card">
+            <span class="number">02 / PERSONALITY</span>
+            <div class="symbol">☁</div>
+
+            <h3>Tính cách</h3>
+
+            <p>
+                Ít nói với người lạ,
+                nhưng khi ở cạnh người thân
+                thì mình lại nói rất nhiều.
+            </p>
+        </div>
+
+        <div class="card">
+            <span class="number">03 / HOBBIES</span>
+            <div class="tags">
+                <span>♫ Nghe nhạc</span>
+                <span>✧ Xem phim</span>
+                <span>✎ Vẽ tranh</span>
+            </div>
+
+            <h3>Sở thích</h3>
+
+            <p>
+                Thích tìm những giai điệu hợp tâm trạng,
+                xem phim và dành thời gian cho hội họa.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+<section class="feature">
+    <div>
+        <p class="eyebrow">A FEW THINGS I LOVE</p>
+        <h2>Thế giới nhỏ<br>của mình.</h2>
+
+        <p>
+            Từ những bài hát nghe đi nghe lại,
+            những nhân vật yêu thích cho đến các bản
+            sketch chưa hoàn thành.
+        </p>
+
+        <a href="music-art.html" class="text-link">
+            Đi đến trang 2 →
+        </a>
+    </div>
+
+    <img src="images/art-05.jpg" alt="Tranh yêu thích">
+</section>
+
+<footer>
+    <span>GÓC CỦA ANH NGUYỄN</span>
+    <span>Made with ♡ · 2026</span>
+</footer>
+
+</body>
+</html>
